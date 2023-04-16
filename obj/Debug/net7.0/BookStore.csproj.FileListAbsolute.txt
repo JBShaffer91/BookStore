@@ -1,0 +1,15 @@
+C:\Users\justi\Desktop\BookStore\bin\Debug\net7.0\BookStore.exe
+C:\Users\justi\Desktop\BookStore\bin\Debug\net7.0\BookStore.deps.json
+C:\Users\justi\Desktop\BookStore\bin\Debug\net7.0\BookStore.runtimeconfig.json
+C:\Users\justi\Desktop\BookStore\bin\Debug\net7.0\BookStore.dll
+C:\Users\justi\Desktop\BookStore\bin\Debug\net7.0\BookStore.pdb
+C:\Users\justi\Desktop\BookStore\obj\Debug\net7.0\BookStore.csproj.AssemblyReference.cache
+C:\Users\justi\Desktop\BookStore\obj\Debug\net7.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\justi\Desktop\BookStore\obj\Debug\net7.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\justi\Desktop\BookStore\obj\Debug\net7.0\BookStore.AssemblyInfo.cs
+C:\Users\justi\Desktop\BookStore\obj\Debug\net7.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\justi\Desktop\BookStore\obj\Debug\net7.0\BookStore.dll
+C:\Users\justi\Desktop\BookStore\obj\Debug\net7.0\refint\BookStore.dll
+C:\Users\justi\Desktop\BookStore\obj\Debug\net7.0\BookStore.pdb
+C:\Users\justi\Desktop\BookStore\obj\Debug\net7.0\BookStore.genruntimeconfig.cache
+C:\Users\justi\Desktop\BookStore\obj\Debug\net7.0\ref\BookStore.dll
